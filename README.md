@@ -1,2 +1,1 @@
-# Phishing1
-The Python-based cybersecurity project that scans for open ports and performs basic vulnerability assessment.
+Email Phishing Detection is a cybersecurity project designed to identify suspicious or fraudulent emails. The system analyzes email content, links, sender information, and common phishing patterns to determine whether an email is legitimate or phishing.
